@@ -7,4 +7,4 @@
 4- Advantages and disadvantages of AI for Livestock profession.
 5- Conclusion.
 *This repository was created by following the instructions on setting up a website using GitHub pages.*
-**This repository is licenced under MIT.*
+**This repository is licenced under MIT.**
