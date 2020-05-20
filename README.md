@@ -18,7 +18,7 @@ AI is an amazing field that brings revolution in modern life. Now the big sized 
 
 ###### Usage
 
-AI is useful in all fields of life. It adds ease in the diagnosis of various diseases, reproductive cyclicity, and internal structure of the body. By using these things, they hone the confidence of doctors and operate with great accuracy.
+AI is useful in all fields of life. It adds ease in the diagnosis of various diseases, reproductive cyclicity, and internal structure of the body. By using these things, they hone the confidence of doctors and they operate with great accuracy.
 
 *This repository was created by following the instructions on setting up a website using GitHub pages.*
 
