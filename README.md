@@ -12,9 +12,13 @@
 
 5- Conclusion.
 
+##### Installation
+
+AI is an amazing field that brings revolution in modern life. Now the big sized machines are converted into small and portable machines. These robots are very intelligent and are very easy to install. Now certain machines are operated on plug and play method. We can bring them out of the room, any where we want.
+
 ###### Usage
 
-AI is useful in all fields of life. It adds ease in the diagnosis of various diseases.
+AI is useful in all fields of life. It adds ease in the diagnosis of various diseases, reproductive cyclicity, and internal structure of the body. By using these things, they hone the confidence of doctors and operate with great accuracy.
 
 *This repository was created by following the instructions on setting up a website using GitHub pages.*
 
