@@ -12,8 +12,6 @@
 
 5- Conclusion.
 
-![giphy](https://user-images.githubusercontent.com/64958196/82406699-b916ec00-9a80-11ea-95c9-032e390c94d5.gif)
-
 ###### Usage
 
 AI is useful in all fields of life. It adds ease in the diagnosis of various diseases.
@@ -21,3 +19,5 @@ AI is useful in all fields of life. It adds ease in the diagnosis of various dis
 *This repository was created by following the instructions on setting up a website using GitHub pages.*
 
 **This repository is licenced under MIT.**
+
+![giphy](https://user-images.githubusercontent.com/64958196/82406699-b916ec00-9a80-11ea-95c9-032e390c94d5.gif)
