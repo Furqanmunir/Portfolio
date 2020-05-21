@@ -66,59 +66,65 @@ Robots are modern automation technologies that are mostly used for the productio
 #### Advantages
 
 ###### AI advantages includes:
+
 -Easy diagnosis.
+
 -more powerful and more useful.
+
 -New and improved interface.
+
 -Solving new problems.
+
 -Better handling of information.
+
 -Relieves information overload.
+
 -Conversion of information into knowledge. (11)
 
 #### Disadvantage
 
 ###### AI disadvantages includes:
+
 -Increased cost.
+
 -Difficulty with software development (Slow and expensive).
+
 -Few experienced programmers.
+
 -Few practical products have reached the market yet. (12)
- 
+
 #### Conclusion
 
 We have concluded from the above discussion that if we transfer our dairy, beef and poultry farms into new and modern farms, we will be able to get more profits than with the conventional farms. With the conversion of man power into machines, it will enhance the production of farm, keeps record safe, and saves our time. Moreover; the daily cost also decreases. Livestock is the basis of any country from where our food and leather industry flourish. In future world seems more fast, we need remote techniques as much as we can in order to make life easier. So that we can get more profit from the limited resources by keeping an eye on them through AI. Such techniques are going to be the part of our lives nearly. So to cope up with such situation we need to get ready with new ideas in industry.
 
 #### References
 
-1)      Scerri, P., Pynadath, D. V. and Tambe, M., Towards adjustable autonomy for the real world, Journal of Artiﬁcial Intelligence 
+1)      Scerri, P., Pynadath, D. V. and Tambe, M., Towards adjustable autonomy for the real world,
+Journal of Artiﬁcial Intelligence Research, Vol. 17, pp.171-228, 2002.
 
-Research, Vol. 17, pp.171-228, 2002.
+2)      Baader, F., Lutz, C., Sturm, H. and Wolter, F., Fusions of description logics and abstract description systems,
+Journal of Artiﬁcial Intelligence Research, Vol. 16, pp.1-58, 2002.
 
-2)      Baader, F., Lutz, C., Sturm, H. and Wolter, F., Fusions of description logics and abstract description systems, Journal of 
+3)      Ambite, J. L. and Knoblock, C. A., Planning by rewriting,
+Journal of Artiﬁcial Intelligence Research, Vol. 15, pp.207-261, 2001.
 
-Artiﬁcial Intelligence Research, Vol. 16, pp.1-58, 2002.
+4)      Alai, M., AI, scientiﬁc discovery and realism, Minds and Machines,
+Vol. 14, No. 1, pp.21-42, 2004.
 
-3)      Ambite, J. L. and Knoblock, C. A., Planning by rewriting, Journal of Artiﬁcial Intelligence Research, Vol. 15, pp.207-261, 2001.
+5)      ] Clocksin, W. F., Artiﬁcial intelligence and the future. Philosophical Transactions:
+Mathematical, Physical & Engineering Sciences, Vol. 361, No. 1809, pp.1721-1748, 2003.
 
-4)      Alai, M., AI, scientiﬁc discovery and realism, Minds and Machines, Vol. 14, No. 1, pp.21-42, 2004.
+6)      Fox, D., Burgard, W. and Thrun, S., Markov localisation for mobile robots in dynamic environments,
+Journal of Artiﬁcial Intelligence Research, Vol. 11, pp.391-427, 1999.
 
-5)      ] Clocksin, W. F., Artiﬁcial intelligence and the future. Philosophical Transactions: Mathematical, Physical & Engineering 
+7)      Halpern, J. Y., Conditional plausibility measures and Bayesian networks, 
+Journal of Artiﬁcial Intelligence Research, Vol. 14, pp.359-389, 2001.
 
-Sciences, Vol. 361, No. 1809, pp.1721-1748, 2003.
+8)      Kim, S. W. and Kim, S. M., Turing-computability and artiﬁcial intelligence: 
+Godel’s incompleteness results. Kybernetes, Vol. 24 No. 6., 1995.
 
-6)      Fox, D., Burgard, W. and Thrun, S., Markov localisation for mobile robots in dynamic environments, Journal of Artiﬁcial 
-
-Intelligence Research, Vol. 11, pp.391-427, 1999.
-
-7)      Halpern, J. Y., Conditional plausibility measures and Bayesian networks, Journal of Artiﬁcial Intelligence Research, Vol. 14, 
-
-pp.359-389, 2001.
-
-8)      Kim, S. W. and Kim, S. M., Turing-computability and artiﬁcial intelligence: Godel’s incompleteness results. Kybernetes, Vol. 24 
-
-No. 6., 1995.
-
-9)      ] Moraga, C., Trillas, E. and Guadarrama, S., Multiple-valued logic and artiﬁcial intelligence fundamentals of fuzzy control 
-
-revisited. Artiﬁcial Intelligence Review, Vol. 20, No. 3-4, pp.169-197, 2003.
+9)      ] Moraga, C., Trillas, E. and Guadarrama, S., Multiple-valued logic and artiﬁcial intelligence 
+fundamentals of fuzzy control revisited. Artiﬁcial Intelligence Review, Vol. 20, No. 3-4, pp.169-197, 2003.
 
 10)  Renz, J. and Nebel, B., Eﬃcient methods for qualitative spatial reasoning, Journal of Artiﬁcial Intelligence Research, Vol. 15, 
 
