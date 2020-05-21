@@ -1,4 +1,4 @@
-## Veterinary profession
+   ## 1                              Veterinary profession
 
 Many years ago, few people lived together at certain places and shared their things with each other. As we know that now the world population is growing very fast. There is a lot of hustle and bustle, especially in the cities. All living things  need food to live. Some animals  eat flesh, some eat grass, and some eat both. We humans are omnivores. We need a large amount of food for our body to work efficiently.
 
@@ -15,7 +15,7 @@ We have concluded from the above discussion that the medicine profession is link
 
 
 
-## ARTIFICIAL INTELLIGENCE; WAY FORWARD IN LIVESTOCK INDUSTRY
+   ## 2                       ARTIFICIAL INTELLIGENCE; WAY FORWARD IN LIVESTOCK INDUSTRY
  
 #### Abstract
 
@@ -99,26 +99,26 @@ We have concluded from the above discussion that if we transfer our dairy, beef 
 
 #### References
 
-1)Scerri, P., Pynadath, D. V. and Tambe, M., Towards adjustable autonomy for the real world,Journal of Artiﬁcial Intelligence Research, Vol. 17, pp.171-228, 2002.
+1) Scerri, P., Pynadath, D. V. and Tambe, M., Towards adjustable autonomy for the real world,Journal of Artiﬁcial Intelligence Research, Vol. 17, pp.171-228, 2002.
 
-2)Baader, F., Lutz, C., Sturm, H. and Wolter, F., Fusions of description logics and abstract description systems,Journal of Artiﬁcial Intelligence Research, Vol. 16, pp.1-58, 2002.
+2) Baader, F., Lutz, C., Sturm, H. and Wolter, F., Fusions of description logics and abstract description systems,Journal of Artiﬁcial Intelligence Research, Vol. 16, pp.1-58, 2002.
 
-3)Ambite, J. L. and Knoblock, C. A., Planning by rewriting,Journal of Artiﬁcial Intelligence Research, Vol. 15, pp.207-261, 2001.
+3) Ambite, J. L. and Knoblock, C. A., Planning by rewriting,Journal of Artiﬁcial Intelligence Research, Vol. 15, pp.207-261, 2001.
 
-4)Alai, M., AI, scientiﬁc discovery and realism, Minds and Machines,Vol. 14, No. 1, pp.21-42, 2004.
+4) Alai, M., AI, scientiﬁc discovery and realism, Minds and Machines,Vol. 14, No. 1, pp.21-42, 2004.
 
-5)Clocksin, W. F., Artiﬁcial intelligence and the future. Philosophical Transactions:Mathematical, Physical & Engineering Sciences, Vol. 361, No. 1809, pp.1721-1748, 2003.
+5) Clocksin, W. F., Artiﬁcial intelligence and the future. Philosophical Transactions:Mathematical, Physical & Engineering Sciences, Vol. 361, No. 1809, pp.1721-1748, 2003.
 
-6)Fox, D., Burgard, W. and Thrun, S., Markov localisation for mobile robots in dynamic environments,Journal of Artiﬁcial Intelligence Research, Vol. 11, pp.391-427, 1999.
+6) Fox, D., Burgard, W. and Thrun, S., Markov localisation for mobile robots in dynamic environments,Journal of Artiﬁcial Intelligence Research, Vol. 11, pp.391-427, 1999.
 
-7)Halpern, J. Y., Conditional plausibility measures and Bayesian networks, Journal of Artiﬁcial Intelligence Research, Vol. 14, pp.359-389, 2001.
+7) Halpern, J. Y., Conditional plausibility measures and Bayesian networks, Journal of Artiﬁcial Intelligence Research, Vol. 14, pp.359-389, 2001.
 
-8)Kim, S. W. and Kim, S. M., Turing-computability and artiﬁcial intelligence: Godel’s incompleteness results. Kybernetes, Vol. 24 No. 6., 1995.
+8) Kim, S. W. and Kim, S. M., Turing-computability and artiﬁcial intelligence: Godel’s incompleteness results. Kybernetes, Vol. 24 No. 6., 1995.
 
-9)Moraga, C., Trillas, E. and Guadarrama, S., Multiple-valued logic and artiﬁcial intelligence fundamentals of fuzzy control revisited. Artiﬁcial Intelligence Review, Vol. 20, No. 3-4, pp.169-197, 2003.
+9) Moraga, C., Trillas, E. and Guadarrama, S., Multiple-valued logic and artiﬁcial intelligence fundamentals of fuzzy control revisited. Artiﬁcial Intelligence Review, Vol. 20, No. 3-4, pp.169-197, 2003.
 
-10)Renz, J. and Nebel, B., Eﬃcient methods for qualitative spatial reasoning, Journal of Artiﬁcial Intelligence Research, Vol. 15, pp.s 289-318, 2001.
+10) Renz, J. and Nebel, B., Eﬃcient methods for qualitative spatial reasoning, Journal of Artiﬁcial Intelligence Research, Vol. 15, pp.s 289-318, 2001.
 
-11)Rosati, R., Reasoning about minimal belief and negation as failure, Journal of Artiﬁcial Intelligence Research, Vol. 11, pp.277-300, 1999.
+11) Rosati, R., Reasoning about minimal belief and negation as failure, Journal of Artiﬁcial Intelligence Research, Vol. 11, pp.277-300, 1999.
 
-12)Schiaﬀonati, V., A framework for the foundation of the philosophy of artiﬁcial intelligence. Minds and Machines, Vol. 13, No. 4, pp.537-552, 2003.
+12) Schiaﬀonati, V., A framework for the foundation of the philosophy of artiﬁcial intelligence. Minds and Machines, Vol. 13, No. 4, pp.537-552, 2003.
