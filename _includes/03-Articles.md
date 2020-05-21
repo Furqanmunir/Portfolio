@@ -40,10 +40,13 @@ There are long term objectives or goals in the path of intelligence sector. The 
 
 **Processing of natural languages**- Interact with modern devices that understand well the languages spoken by humans.
 Gaming-AI has an essential role in the thinking of possible positions based on deep information in strategic games like PUBG, Commando etc.
- **Skilled or expert systems**- Software give comprehension and advice to their users.
+
+**Skilled or expert systems**- Software give comprehension and advice to their users.
+
 **Vision system**- These systems can understand and elaborate the inputs given in the form of vision like Cameras.
 Speech system- There are certain systems that are based on AI speech recognition that can hear and express as sentences and understand their meanings while a person talks to it like Google assistant.
 Page recognition- There are certain page recognition software that read the text on the paper and recognize the shapes of the letters and convert it into editable text.
+
 **Intelligent robots**- Robots are the current latest systems are work like human and can perform the instructions given to them by humans or operators. (6)
 *“AI is likely to be either the best or worst thing to happen to humanity.” Stephen Hawking*
 
