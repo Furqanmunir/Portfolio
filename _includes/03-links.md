@@ -21,7 +21,7 @@ We have concluded from the above discussion that the medicine profession is link
 
 Artificial Intelligence (A.I.) is a multidisciplinary field whose objective is to automate the activities which presently require human intelligence. Recent success in AI include computerized medical diagnosticians and systems that automatically customize hardware to specific user requirements. In this article an attempt has been made to trace the different applications of artificial intelligence in the field of livestock. As the upcoming world seems less complex with the modern techniques, in which AI can be one of them. The various concepts such as gaming, expert system, language processing have enumerated. The advantage and disadvantage of AI for the field of livestock have also been discussed.
 
-###### Keywords: AI, remote system, marketing efficiency
+*Keywords: AI, remote system, marketing efficiency*
 
 #### Introduction
 
