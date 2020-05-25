@@ -1,4 +1,4 @@
-#### 1 Veterinary profession
+## 1 Veterinary profession
 
 Many years ago, few people lived together at certain places and shared their things with each other. As we know that now the world population is growing very fast. There is a lot of hustle and bustle, especially in the cities. All living things  need food to live. Some animals  eat flesh, some eat grass, and some eat both. We humans are omnivores. We need a large amount of food for our body to work efficiently.
 
@@ -15,13 +15,13 @@ We have concluded from the above discussion that the medicine profession is link
 
 
 
-#### 2 ARTIFICIAL INTELLIGENCE; WAY FORWARD IN LIVESTOCK INDUSTRY
+## 2 ARTIFICIAL INTELLIGENCE; WAY FORWARD IN LIVESTOCK INDUSTRY
  
 #### Abstract
 
 Artificial Intelligence (A.I.) is a multidisciplinary field whose objective is to automate the activities which presently require human intelligence. Recent success in AI include computerized medical diagnosticians and systems that automatically customize hardware to specific user requirements. In this article an attempt has been made to trace the different applications of artificial intelligence in the field of livestock. As the upcoming world seems less complex with the modern techniques, in which AI can be one of them. The various concepts such as gaming, expert system, language processing have enumerated. The advantage and disadvantage of AI for the field of livestock have also been discussed.
 
-#### Keywords: AI, remote system, marketing efficiency
+###### Keywords: AI, remote system, marketing efficiency
 
 #### Introduction
 
