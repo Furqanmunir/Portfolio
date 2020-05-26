@@ -20,6 +20,10 @@ AI is an amazing field that brings revolution in modern life. Now the big sized 
 
 AI is useful in all fields of life. It adds ease in the diagnosis of various diseases, reproductive cyclicity, and internal structure of the body. By using these things, they hone the confidence of doctors and they operate with great accuracy.
 
+###### Result
+
+AI is going to have a great impact on *healthcare industry* & the methods by which healthcare related industries utilize AI. AI provides opportumities for our apps to take data we have gathered from patients and be able to clinically innovate to improve patients outcomes to an even a greater extent. 
+
 *This repository was created by following the instructions on setting up a website using GitHub pages.*
 
 **This repository is licenced under MIT.**
