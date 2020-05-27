@@ -1,5 +1,5 @@
 ## *ARTIFICIAL INTELLIGENCE; WAY FORWARD IN LIVESTOCK INDUSTRY*
-**This repository will give you an insight learning about veterinary profession and Artificial intelligence in livestock field**
+**This repository will give you an insight learning about veterinary profession and Artificial intelligence in livestock field.**
 ###### You will be able to know about
 
 1- Veterinary profession.
