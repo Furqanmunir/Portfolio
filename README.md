@@ -12,6 +12,9 @@
 
 5- Conclusion.
 
+![11](https://user-images.githubusercontent.com/64958196/82977422-38656c00-9ffb-11ea-9bfd-354b0a312d4f.png)
+
+
 ##### Installation
 
 AI is an amazing field that brings revolution in modern life. Now the big sized machines are converted into small and portable machines. These robots are very intelligent and are very easy to install. Now certain machines are operated on plug and play method. We can bring them out of the room, any where we want.
