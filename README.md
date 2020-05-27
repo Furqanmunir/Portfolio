@@ -19,11 +19,11 @@
 
 AI is an amazing field that brings revolution in modern life. Now the big sized machines are converted into small and portable machines. These robots are very intelligent and are very easy to install. Now certain machines are operated on plug and play method. We can bring them out of the room, any where we want.
 
-###### Usage
+##### Usage
 
 AI is useful in all fields of life. It adds ease in the diagnosis of various diseases, reproductive cyclicity, and internal structure of the body. By using these things, they hone the confidence of doctors and they operate with great accuracy. Machine learning is particularly beneficial in those areas where *the diagnostic informations*, a doctor examine, are already digitized.  
 
-###### Result
+##### Result
 
 AI is going to have a great impact on *healthcare industry* & the methods by which healthcare related industries utilize AI. AI provides opportumities for our apps to take data we have gathered from patients and be able to clinically innovate to improve patients outcomes to an even a greater extent. 
 
