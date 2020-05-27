@@ -17,7 +17,7 @@
 
 ##### 👉 Installation
 
-AI is an amazing field that brings revolution in modern life. Now the big sized machines are converted into small and portable machines. These robots are very intelligent and are very easy to install. Now certain machines are operated on plug and play method. We can bring them out of the room, any where we want.
+AI is an amazing field that brings revolution in modern life. Now the big sized machines are converted into small and portable machines. These robots are very intelligent and are very easy to install. Now certain machines are operated on plug and play method. We can bring them out of the room, any-where we want.
 
 ##### 👉 Usage
 
