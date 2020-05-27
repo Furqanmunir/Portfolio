@@ -23,7 +23,3 @@ layout: default
 <br>
 
 {% include 06-about.md %}
-
-<br>
-
-{% README.md %}
