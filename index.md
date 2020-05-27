@@ -10,7 +10,7 @@ layout: default
 
 <br>
 
-{% include 03-article.md %}
+{% include 03-articles.md %}
 
 <br>
 
