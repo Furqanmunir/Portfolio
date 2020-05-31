@@ -10,7 +10,7 @@ layout: default
 
 <br>
 
-{% include 03-articles.md %}
+{% include 03-about.md %}
 
 <br>
 
@@ -22,7 +22,7 @@ layout: default
 
 <br>
 
-{% include 06-about.md %}
+{% include 06-articles.md %}
 
 <br>
 
