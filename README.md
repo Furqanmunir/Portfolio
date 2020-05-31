@@ -29,6 +29,8 @@ AI is going to have a great impact on *healthcare industry* & the methods by whi
 
 #### 👉 Artificial intelligence proved beneficial in pandemic COVID-19 situation
 
+![AI Robot](https://user-images.githubusercontent.com/64958196/83355772-edd94c00-a37a-11ea-9d8b-b87999d81ca3.png)
+
 AI is playing a vital role in the control of global crises that are arising continuously by pandemic COVID-19.  AI has wide range of scopes including from diagnosis to prediction and vanishing doubts to judging risks, from identification to delivery of food and services. During the current situation when the whole World is enclosed under the bonk of Corona virus, there is a serious requirement for the development of certain software and robots that are specifically designed to tackle covid-19 patients.
 
 *This repository was created by following the instructions on setting up a website using GitHub pages.*
