@@ -27,7 +27,7 @@ AI is useful in all fields of life. It adds ease in the diagnosis of various dis
 
 AI is going to have a great impact on *healthcare industry* & the methods by which healthcare related industries utilize AI. AI provides opportumities for our apps to take data we have gathered from patients and be able to clinically innovate to improve patients outcomes to an even a greater extent. 
 
-#### 👉 Artificial intelligence proved beneficial in pandemic COVID-19 situation
+##### 👉 Artificial intelligence proved beneficial in pandemic COVID-19 situation
 
 ![AI Robot](https://user-images.githubusercontent.com/64958196/83355772-edd94c00-a37a-11ea-9d8b-b87999d81ca3.png)
 
