@@ -22,7 +22,7 @@ layout: default
 
 <br>
 
-{% include 06-about.md %}
+{% include 06-articles.md %}
 
 <br>
 
