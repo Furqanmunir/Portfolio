@@ -10,10 +10,6 @@ layout: default
 
 <br>
 
-{% include 07-AI.md %}
-
-<br>
-
 {% include 03-articles.md %}
 
 <br>
@@ -27,3 +23,7 @@ layout: default
 <br>
 
 {% include 06-about.md %}
+
+<br>
+
+{% include 07-AI.md %}
