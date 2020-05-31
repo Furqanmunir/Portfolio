@@ -26,4 +26,4 @@ layout: default
 
 <br>
 
-{% include 07-Artificial intelligence.md %}
+{% include 07-AI.md %}
