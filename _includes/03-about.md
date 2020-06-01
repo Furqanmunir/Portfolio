@@ -21,11 +21,11 @@ AI is an amazing field that brings revolution in modern life. Now the big sized 
 
 ##### 👉 Usage
 
-AI is useful in all fields of life. It adds ease in the diagnosis of various diseases, reproductive cyclicity, and internal structure of the body. By using these things, they hone the confidence of doctors and they operate with great accuracy. Machine learning is particularly beneficial in those areas where *the diagnostic informations*, a doctor examine, are already digitized.  
+AI is useful in all fields of life. It adds ease in the diagnosis of various diseases, reproductive cyclicity, and internal structure of the body. The use of AI expeditious the diagnostic operation with substantial veracity. Machine learning is awfully promising in the areas having automated examination techniques and diagnostic procedure. By using these things, they hone the confidence of doctors and they operate with great accuracy. Machine learning is particularly beneficial in those areas where *the diagnostic informations*, a doctor examine, are already digitized.  
 
 ##### 👉 Result
 
-AI is going to have a great impact on *healthcare industry* & the methods by which healthcare related industries utilize AI. AI provides opportumities for our apps to take data we have gathered from patients and be able to clinically innovate to improve patients outcomes to an even a greater extent. 
+AI is going to have a great impact on *healthcare industry* & the methods by which healthcare related industries utilize AI. AI provides opportumities for our apps to take data we have gathered from patients and be able to clinically innovate to improve patients outcomes to an even a greater extent. AI is going revolutionize the field of veterinary practice. AI provides a new algorithm which will turn the patient charts and histories to a systemic code, leading to a clinical revolution and will prove to be tremendously leveraging in the betterment of patents.
 
 ##### 👉 Artificial intelligence proved beneficial in pandemic COVID-19 situation
 
